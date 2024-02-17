@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm Altaf Hussain! 👋
 
 ## 🚀 About Me
 I'm a passionate Web Developer with over 3 years of experience specializing in front-end and back-end technologies. I thrive on creating elegant solutions to complex problems and am constantly seeking to learn new technologies and best practices. My journey in web development has been filled with challenging projects, continuous learning, and collaborating with teams to build scalable and efficient web applications.
