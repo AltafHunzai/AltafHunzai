@@ -38,7 +38,6 @@ Feel free to reach out for collaborations, job opportunities, or just for a chat
 ## 📈 Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AltafHunzai&show_icons=true&theme=radical)
 
-*Replace `AltafHunzai` with your actual GitHub username to display your GitHub stats.*
 
 ---
 
