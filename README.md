@@ -31,12 +31,12 @@ I'm a passionate Web Developer with over 3 years of experience specializing in f
 ## 🤝 How to reach me
 - **LinkedIn**: [Your LinkedIn](#)
 - **Twitter**: [Your Twitter](#)
-- **Email**: your.email@example.com
+- **Email**: ah5509092@gmail.com
 
 Feel free to reach out for collaborations, job opportunities, or just for a chat!
 
 ## 📈 Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AltafHunzai&show_icons=true&theme=radical)
 
 *Replace `yourgithubusername` with your actual GitHub username to display your GitHub stats.*
 
