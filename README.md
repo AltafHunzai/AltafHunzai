@@ -29,7 +29,7 @@ I'm a passionate Web Developer with over 3 years of experience specializing in f
 *Adjust according to your current learning path.*
 
 ## 🤝 How to reach me
-- **LinkedIn**: [www.linkedin.com/in/altaf-hussain-5aa663213](#)
+- **LinkedIn**: www.linkedin.com/in/altaf-hussain-5aa663213
 - **Twitter**: [Your Twitter](#)
 - **Email**: ah5509092@gmail.com
 
