@@ -163,7 +163,7 @@ I'm a passionate Web Developer with over 3 years of experience specializing in f
 
 <br/>
 
-## 🤝 How to reach me
+## ❤️ Let's get connected:
 - **LinkedIn**: www.linkedin.com/in/altaf-hussain-5aa663213
 - **Email**: ah5509092@gmail.com
 
