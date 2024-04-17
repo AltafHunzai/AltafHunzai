@@ -153,26 +153,21 @@ I'm a passionate Web Developer with over 3 years of experience specializing in f
 </table>
 <br/>
 
-## 🌐 Latest Projects
-- **Project Name 1**: A brief description. [View Project](#)
-- **Project Name 2**: A brief description. [View Project](#)
-- **Project Name 3**: A brief description. [View Project](#)
 
-*Include a mix of personal projects, contributions to open source, and work-related projects if possible.*
 
 ## 📚 I'm currently learning ...
 - Advanced React techniques
 - Cloud services with AWS
 - Containerization with Docker
+- MongoDb
 
-*Adjust according to your current learning path.*
+<br/>
 
 ## 🤝 How to reach me
 - **LinkedIn**: www.linkedin.com/in/altaf-hussain-5aa663213
-- **Twitter**: [Your Twitter](#)
 - **Email**: ah5509092@gmail.com
 
-Feel free to reach out for collaborations, job opportunities, or just for a chat!
+Feel free to reach out for collaborations, or just for a chat!
 
 ## 📈 Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AltafHunzai&show_icons=true&theme=radical)
