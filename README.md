@@ -33,6 +33,13 @@ I'm a passionate Web Developer with over 3 years of experience specializing in f
         CSS
       </div>
     </td>
+     <td align="center" width="200">
+      <div>
+        <img src="https://github.com/AltafHunzai/AltafHunzai/assets/99405131/91052c53-1c38-4e85-a37f-6afe4f768c99" width="60" />
+        <br />
+        Bootstrap
+      </div>
+    </td>
     <td align="center" width="200">
       <div>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="60" />
@@ -40,6 +47,30 @@ I'm a passionate Web Developer with over 3 years of experience specializing in f
         Sass
       </div>
     </td>
+     <td align="center" width="200">
+      <div>
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="60" />
+        <br />
+        Tailwind CSS
+      </div>
+    </td>
+    <td align="center" width="200">
+      <div>
+        <img src="https://github.com/AltafHunzai/AltafHunzai/assets/99405131/206c572d-6a4c-43d9-ba71-9c9755d8dcf4" width="60" />
+        <br />
+        Shadcn UI
+      </div>
+    </td>
+    <td align="center" width="200">
+      <div>
+        <img src="https://github.com/AltafHunzai/AltafHunzai/assets/99405131/73a34897-ad27-4d0a-815d-3146fdd02e89" width="60" />
+        <br />
+        Ant Design
+      </div>
+    </td>
+  
+  </tr>
+  <tr>
     <td align="center" width="200">
       <div>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" />
@@ -54,15 +85,13 @@ I'm a passionate Web Developer with over 3 years of experience specializing in f
         TypeScript
       </div>
     </td>
-   <td align="center" width="200">
+    <td align="center" width="200">
       <div>
         <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" width="60" />
         <br />
         Php
       </div>
     </td>  
-  </tr>
-  <tr>
     <td align="center" width="200">
       <div>
         <img src="https://avatars1.githubusercontent.com/u/9441414?s=200&v=4" width="60" />
@@ -89,20 +118,6 @@ I'm a passionate Web Developer with over 3 years of experience specializing in f
         <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" width="60" />
         <br />
         Laravel
-      </div>
-    </td>
-    <td align="center" width="200">
-      <div>
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="60" />
-        <br />
-        Tailwind CSS
-      </div>
-    </td>
-        <td align="center" width="200">
-      <div>
-        <img src="https://github.com/AltafHunzai/AltafHunzai/assets/99405131/206c572d-6a4c-43d9-ba71-9c9755d8dcf4" width="60" />
-        <br />
-        Shadcn UI
       </div>
     </td>
   </tr>
@@ -147,6 +162,13 @@ I'm a passionate Web Developer with over 3 years of experience specializing in f
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="60" />
         <br />
         Postman
+      </div>
+    </td>
+      <td align="center" width="200">
+      <div>
+        <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" width="60" />
+        <br />
+        Redis
       </div>
     </td>
   </tr>
