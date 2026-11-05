@@ -1,82 +1,15 @@
-from PIL import Image, ImageDraw, ImageFont
-from IPython.display import display
 
-W, H = 1200, 700
-img = Image.new("RGB", (W, H), "#0d1117")
-d = ImageDraw.Draw(img)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile.svg">
+  <source media="(prefers-color-scheme: light)" srcset="profile.svg">
+  <img alt="Altaf Hussain's GitHub profile" src="profile.svg" width="100%">
+</picture>
 
-# Fonts
-font_path = "/usr/share/fonts/truetype/dejavu/DejaVuSansMono.ttf"
-bold_path = "/usr/share/fonts/truetype/dejavu/DejaVuSansMono-Bold.ttf"
-def font(size, bold=False):
-    return ImageFont.truetype(bold_path if bold else font_path, size)
+---
 
-# Frame
-d.rounded_rectangle((1, 1, W-2, H-2), radius=20, outline="#30363d", width=2)
+### Let's connect
 
-blue, orange, fg, muted, line = "#58a6ff", "#ff9e4a", "#c9d1d9", "#8b949e", "#444c56"
+- [LinkedIn](https://www.linkedin.com/in/altaf-hussain-5aa663213)
+- [Email](mailto:ah5509092@gmail.com)
 
-# Left ASCII portrait
-art = [
-"        +++===---",
-"     +===------::::",
-"    +==------::::::....",
-"   *===-----::::::::....",
-"  +===++++++******++==:",
-" ==*%%##########*****++==",
-"=+*%%################%%*+=",
-"=*%%##################%%*=",
-"+*%%####################%%*",
-"*%%######################%%*",
-"*%%######################%%*",
-"+*%%####################%%*",
-"=+*%%##################%%*=",
-"==+*%%##############%%*+==",
-"+==+*%%##########%%*+==+",
-"++===+*%%######%%*+===++",
-"++++===+*%%##%%*+===++++",
-"+++++===+*%%%%*+===+++++",
-"++++++===+**+===++++++",
-"+++++++=======+++++++",
-"   +++++++++++++++",
-]
-for i, s in enumerate(art):
-    d.text((45, 78+i*24), s, font=font(16), fill=muted)
-
-# Header
-d.text((530, 48), "AltafHunzai@github", font=font(22, True), fill=blue)
-d.line((780, 58, 1160, 58), fill=line, width=2)
-
-def row(y, label, value, size=17):
-    d.text((530, y), label, font=font(size, True), fill=orange)
-    f = font(size)
-    # right align value to x=1160
-    bbox = d.textbbox((0, 0), value, font=f)
-    d.text((1160-(bbox[2]-bbox[0]), y), value, font=f, fill=fg)
-
-row(100, "Role:", "Full-Stack Web Developer")
-row(134, "Experience:", "5+ Years")
-row(168, "Focus:", "Frontend & Backend Development")
-row(202, "Philosophy:", "Simplicity, Scalability & Clean Code", 15)
-row(236, "Fun Fact:", "Turning Complex Problems Into Simple Solutions", 13)
-
-# Section headings and rules
-def section(y, title, rule_start):
-    d.text((530, y), title, font=font(20, True), fill=blue)
-    d.line((rule_start, y+9, 1160, y+9), fill=line, width=2)
-
-section(288, "— Tech Stack", 685)
-row(326, "Frontend:", "React, Next.js, TypeScript")
-row(360, "UI:", "HTML, CSS, Sass, Tailwind, Bootstrap", 15)
-row(394, "Backend:", "PHP, Laravel, Node.js")
-row(428, "Database:", "PostgreSQL, Redis")
-row(462, "Tools:", "Git, GitHub, VS Code, Postman", 15)
-
-section(510, "— Contact", 650)
-row(548, "Email:", "ah5509092@gmail.com")
-row(582, "LinkedIn:", "altaf-hussain-5aa663213", 15)
-
-section(624, "— GitHub", 665)
-d.text((530, 660), "Building scalable web applications.", font=font(16), fill=fg)
-
-display(img)
+I'm a full-stack web developer with 3+ years of experience building scalable web applications. I enjoy solving complex problems and continuously learning new technologies.
